@@ -1,0 +1,33 @@
+*{
+    padding:0px;
+    margin:0px;
+    display: inline-block;
+}
+#green{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+}
+#blue{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+}
+#yellow{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+}
+#red{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    
+}
+.buttons{
+    j
+}
